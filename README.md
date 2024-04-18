@@ -25,7 +25,7 @@ To containerize this application, follow these steps:
 Remember to replace `my-node-app` with the name you gave to your Docker image.
 
 
-## Installing Node Modules
+## [Optional] Installing Node Modules
 
 It's not necassry to install node modules prior to containerizing the application. With that in mind, here are the steps to run the project locally without Docker:
 
