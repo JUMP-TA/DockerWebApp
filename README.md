@@ -1,4 +1,4 @@
-## Docker Web App
+### Docker Web App
 
 A web application that displays and updates the current time. This project is easily containerized using the included Dockerfile.
 
@@ -24,9 +24,13 @@ To containerize this application, follow these steps:
 
 Remember to replace `my-node-app` with the name you gave to your Docker image.
 
+
+
 ## Docker Image
 
 The Docker image for this application is available on Docker Hub. You can access it [here](https://hub.docker.com/r/seanbryson/my-node-app).
+
+
 
 ## [Optional] Installing Node Modules
 
